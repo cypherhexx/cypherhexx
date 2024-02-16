@@ -52,8 +52,7 @@
  
 - 🔭 I am <b>ready to start</b> your project anytime.
 - 😄 I'm an experienced <b>individual full-stack developer</b> adept in all stages of advanced web and blockchain development.
-- 🔭 I'm <b>a specialist</b> in React/Next.js/Node.js/React Native/Nest.js/GraphQL/Typescript/AWS/GCP, etc.
-- Ethereum/Algorand expert (Web3, Ether.js, Reach, PyTeal, etc)
+- 🔭 I'm <b>a specialist</b> in ASP.NET, ASP.NET Core, ASP.NET MVC, Blazor, Angular, NodeJS, AWS, GCP, etc.
 - ⚡ <b>Fun fact</b>: Always <b>passionate to work</b>, <b>learn</b> new technologies, and <b>love to share</b> experiences with others.
 - 😇 <b>Ever ready!!!</b> 
 </p>
